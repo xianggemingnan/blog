@@ -1,6 +1,6 @@
 ## 介绍
 
-![1.jpg](https://github.com/xianggemingnan/blog/images/1.jpg)
+![1.jpg](https://github.com/xianggemingnan/blog/blob/master/images/1.jpg)
 
 这是我的个人博客仓库，现在有以下内容：
 
